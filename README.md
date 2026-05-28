@@ -2,7 +2,7 @@
 
 Some projects I worked on during my undergrad in mechanical engineering. Putting them here to keep track of everything and share with anyone who's interested.
 
-The website is live at: **https://yourusername.github.io/repo-name** (update this after you set up GitHub Pages)
+The website is live at: **https://aryanomaly.github.io/repo-name** 
 
 ---
 
